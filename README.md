@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Thakare</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<iframe src="https://gifer.com/embed/7fzT" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🔭 I’m currently working on **on a composite project of 3 Elements named, TheTrilogy**
 
